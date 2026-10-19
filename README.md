@@ -27,6 +27,7 @@ This repository contains my **Machine Learning lab work** from class. Every lab 
 | 01 | Decision Tree | Building and training a decision tree classifier | [Open](./01%20dicission%20tree.ipynb) |
 | 02 | CART, ID3 & C4.5 | Comparing the three decision tree algorithms and their splitting criteria | [Open](./Cart%20Id3%204.5.ipynb) |
 | 03 | Find-S Algorithm | Finding the most specific hypothesis from training data | [Open](./Find%20S%20algorithm.ipynb) |
+| 04 | Linear Regression | Predicting a continuous value by fitting a straight line to the data | [Open](./Linear%20Regression.ipynb) |
 
 > 🔄 More labs will be added as the course progresses.
 
@@ -34,6 +35,7 @@ This repository contains my **Machine Learning lab work** from class. Every lab 
 
 - Concept learning and hypothesis finding
 - Decision tree algorithms (ID3, C4.5, CART)
+- Regression: predicting numbers from data
 - Data preprocessing
 - Model training and evaluation
 - Hands-on experiments in Python
@@ -65,7 +67,8 @@ This repository contains my **Machine Learning lab work** from class. Every lab 
 
 ## 🗺 Upcoming Topics
 
-- [ ] Linear & Logistic Regression
+- [x] Linear Regression
+- [ ] Logistic Regression
 - [ ] K-Nearest Neighbors
 - [ ] Naive Bayes
 - [ ] Support Vector Machines
