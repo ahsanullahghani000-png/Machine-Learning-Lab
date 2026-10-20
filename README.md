@@ -28,6 +28,7 @@ This repository contains my **Machine Learning lab work** from class. Every lab 
 | 02 | CART, ID3 & C4.5 | Comparing the three decision tree algorithms and their splitting criteria | [Open](./Cart%20Id3%204.5.ipynb) |
 | 03 | Find-S Algorithm | Finding the most specific hypothesis from training data | [Open](./Find%20S%20algorithm.ipynb) |
 | 04 | Linear Regression | Predicting a continuous value by fitting a straight line to the data | [Open](./Linear%20Regression.ipynb) |
+| 05 | K-Nearest Neighbour (KNN) | Classifying a new data point by the majority class of its K closest neighbours | [Open](./K%20Nearest%20Neighbour.ipynb) |
 
 > 🔄 More labs will be added as the course progresses.
 
